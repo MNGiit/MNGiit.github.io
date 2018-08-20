@@ -1,11 +1,11 @@
 # Site settings
-author: Mohammed Noori
-title: 
+author: MN
+title: The Blog
 header-img: img/home-bg.png
 email: kmanoorib@gmail.com
-copyright_name: Mohammed Noori
+copyright_name: MN
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A place for my thoughts.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  MNGiit
