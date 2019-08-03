@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "Sinatra Games Site"
-date:       2019-08-03 02:55:44 +0000
+title:      "Sinatra Games Site Project"
+date:       2019-08-02 22:55:45 -0400
 permalink:  sinatra_games_site
 ---
 
